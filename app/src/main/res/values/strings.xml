@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AppContato</string>
+    <string name="descricao">Foto do avatar</string>
 </resources>
