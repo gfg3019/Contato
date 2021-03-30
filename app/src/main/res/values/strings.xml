@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">AppContato</string>
     <string name="descricao">Foto do avatar</string>
+    <string name="menu_item1">Menu item 1</string>
+    <string name="menu_item2">Menu item 2</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
 </resources>

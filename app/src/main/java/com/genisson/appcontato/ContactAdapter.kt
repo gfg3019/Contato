@@ -39,4 +39,5 @@ class ContactAdapter: RecyclerView.Adapter<ContactAdapter.ContactAdapterViewHold
             tvPhone.text = contact.phone
         }
     }
+
 }
