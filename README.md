@@ -9,3 +9,4 @@ Tópicos que foram abordados no desenvolvimento de desse projeto:
 - Options Menus
 - Toast
 - Navigation Drawer
+- SharedPreferences
